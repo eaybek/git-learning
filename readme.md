@@ -1,2 +1,1 @@
-#Readme
-this is a read me
+Merhaba ben kevser :D
